@@ -1,0 +1,15 @@
+﻿@model List<BookStore.DAO.Category>
+
+
+<h2>Loại sách</h2>
+
+
+<ul class="list-group">
+
+    @foreach (var item in Model)
+    {
+        <li><a href="#" class="list-group-item">@item.CateName</a></li>
+    }
+</ul>
+
+

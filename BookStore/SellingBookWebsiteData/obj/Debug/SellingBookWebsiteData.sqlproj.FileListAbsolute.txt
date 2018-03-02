@@ -1,0 +1,5 @@
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\SellingBookWebsiteData\bin\Debug\SellingBookWebsiteData.dacpac
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\SellingBookWebsiteData\bin\Debug\SellingBookWebsiteData.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\SellingBookWebsiteData\bin\Debug\SellingBookWebsiteData.pdb
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\SellingBookWebsiteData\obj\Debug\SellingBookWebsiteData.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\SellingBookWebsiteData\obj\Debug\SellingBookWebsiteData.pdb

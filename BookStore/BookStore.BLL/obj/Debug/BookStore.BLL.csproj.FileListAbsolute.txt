@@ -1,0 +1,12 @@
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\BookStore.BLL.dll.config
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\BookStore.BLL.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\BookStore.BLL.pdb
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\BookStore.DAO.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\BookStore.DAO.pdb
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\obj\Debug\BookStore.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\obj\Debug\BookStore.BLL.dll
+C:\Users\ThangVD10\Desktop\MyTortoiseSVN\trunk\training\ThangVD10\ATNB\Assignment\BookStore\BookStore.BLL\obj\Debug\BookStore.BLL.pdb
